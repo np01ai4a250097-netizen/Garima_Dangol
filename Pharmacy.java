@@ -28,7 +28,7 @@ public class Pharmacy {
         int stock3 = 300;
         
         System.out.println("Enter the name of the medicine");
-        String medName =sc.nextLine(); //here the name is medName istead o fmedicine1 because in calculation we only ned user given data not already available ones.
+        String medName =sc.nextLine(); //here the name is medName istead of medicine1 because in calculation we only ned user given data not already available ones.
         
         System.out.println("Enter the quantity");
         int quantity=sc.nextInt();

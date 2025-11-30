@@ -25,5 +25,11 @@ public class Days
     System.out.println("In month :"+ month);
     System.out.println("In days :"+ days);
     
+    
+    
+    System.out.print("month");
+    System.out.println("days");
+    
+    
     }
 }
